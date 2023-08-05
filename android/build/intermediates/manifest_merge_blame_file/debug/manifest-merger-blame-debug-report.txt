@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.banuba.sdk.flutter.banuba_sdk" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.CAMERA" />
+9-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml:4:3-63
+9-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml:4:20-60
+10    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+10-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml:5:3-78
+10-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml:5:20-75
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml:6:3-79
+11-->/Users/mhamedelbaz/.pub-cache/hosted/pub.dev/banuba_sdk-1.7.0/android/src/main/AndroidManifest.xml:6:20-76
+12
+13</manifest>
