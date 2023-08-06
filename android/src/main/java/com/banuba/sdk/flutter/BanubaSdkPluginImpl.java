@@ -64,11 +64,8 @@ public class BanubaSdkPluginImpl {
                     resourcePath
             );
 
-//            BanubaSdkManager.initialize(
-//                mContext.getApplicationContext(),
-//                clientTokenString,
-//                resourcePath.toArray(new String[] {})
-//            );
+            Log.e(TAG, "BanubaExtensionManager  initialized");
+
         }
 
 
